@@ -6,4 +6,4 @@ This repository contains some Python implementations of physics programming exer
 
 ```bash
 git clone https://github.com/NorCHK/Physics-python_rep.git
-cd physics-exercises
+
